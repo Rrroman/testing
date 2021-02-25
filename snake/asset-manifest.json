@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/testing/snake/static/css/main.f0e8d429.chunk.css",
+    "main.js": "/testing/snake/static/js/main.ae92bc7e.chunk.js",
+    "main.js.map": "/testing/snake/static/js/main.ae92bc7e.chunk.js.map",
+    "runtime-main.js": "/testing/snake/static/js/runtime-main.a65b226f.js",
+    "runtime-main.js.map": "/testing/snake/static/js/runtime-main.a65b226f.js.map",
+    "static/js/2.0447996d.chunk.js": "/testing/snake/static/js/2.0447996d.chunk.js",
+    "static/js/2.0447996d.chunk.js.map": "/testing/snake/static/js/2.0447996d.chunk.js.map",
+    "static/js/3.608a5e26.chunk.js": "/testing/snake/static/js/3.608a5e26.chunk.js",
+    "static/js/3.608a5e26.chunk.js.map": "/testing/snake/static/js/3.608a5e26.chunk.js.map",
+    "index.html": "/testing/snake/index.html",
+    "static/css/main.f0e8d429.chunk.css.map": "/testing/snake/static/css/main.f0e8d429.chunk.css.map",
+    "static/js/2.0447996d.chunk.js.LICENSE.txt": "/testing/snake/static/js/2.0447996d.chunk.js.LICENSE.txt",
+    "static/media/Fruit.module.css": "/testing/snake/static/media/apple-compressed.33c1eec7.svg",
+    "static/media/bite.1e6ccb0d.mp3": "/testing/snake/static/media/bite.1e6ccb0d.mp3",
+    "static/media/Snake.module.css": "/testing/snake/static/media/tongue-out-compressed.4a61b9ae.svg",
+    "static/media/App.module.css": "/testing/snake/static/media/organic-compressed.cac3033f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a65b226f.js",
+    "static/js/2.0447996d.chunk.js",
+    "static/css/main.f0e8d429.chunk.css",
+    "static/js/main.ae92bc7e.chunk.js"
+  ]
+}
